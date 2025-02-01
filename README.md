@@ -1,4 +1,4 @@
-# WeatherWear: Your Personal Clothing Assistant
+# WeatherWear: A Personal Clothing Assistant
 
 ## What and Why?
 
@@ -8,7 +8,7 @@ Many people struggle with:
 - Underdressing or overdressing for the day
 - Time-consuming process of checking weather and planning outfits
 
-Our app addresses these issues by providing several clothing suggestions that consider multiple factors beyond simple temperature, ensuring users are comfortable and prepared for their entire day.
+Our app addresses these issues by providing several clothing suggestions that consider multiple factors rather than simple temperature, ensuring users are comfortable and prepared for their entire day.
 
 ## For Whom?
 
@@ -35,7 +35,7 @@ WeatherWear provides a comprehensive clothing recommendation system with the fol
 ### Personalized Schedule Planning
 Users can input their daily schedule and specify:
 - Duration of outdoor exposure (outdoor or indoor)
-- Time of outdoor activities (e.g., 12:00-3:00)
+- Time of outdoor activities (e.g., 11:00 am-3:00 pm)
 - Specific locations (optional)
 
 ### Wardrobe Management
@@ -64,10 +64,10 @@ Two recommendation modes based on aesthetic preferences:
 - Weather change warnings
 
 ### Additional Features
-- Machine learning to improve recommendations over time (optional)
 - Option to save favorite outfits
 - Share outfit combinations
 - Color and style coordination suggestions
+- Machine learning to improve recommendations over time (optional)
 
 ## Scope
 
